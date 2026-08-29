@@ -1,5 +1,7 @@
 # SafetyKatz
 
+> **Provenance:** This repository is a modified/derived version of upstream security research tooling. It is retained for reference and is not presented as original ABLA86 authorship. Original attribution and license terms are preserved.
+
 ----
 
 SafetyKatz is a combination of slightly modified version of [@gentilkiwi](https://twitter.com/gentilkiwi)'s [Mimikatz](https://github.com/gentilkiwi/mimikatz/) project and [@subtee](https://twitter.com/subtee)'s [.NET PE Loader](https://github.com/re4lity/subTee-gits-backups/blob/master/PELoader.cs).
